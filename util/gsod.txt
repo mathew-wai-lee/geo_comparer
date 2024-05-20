@@ -1,0 +1,1 @@
+aws s3 ls --no-sign-request s3://noaa-gsod-pds/2024/

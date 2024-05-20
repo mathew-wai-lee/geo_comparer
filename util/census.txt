@@ -1,0 +1,20 @@
+https://api.census.gov/data/2020/dec/dhc/variables.html
+https://api.census.gov/data/2020/dec/dhc/geography.html
+https://api.census.gov/data/2020/dec/dhc/examples.html
+
+https://api.census.gov/data/2020/dec/dhc?get=NAME&for=county:*&in=state:*
+
+https://api.census.gov/data/2020/dec/dhc?get=P1_001N&for=county:*&in=state:* ###TOTAL POPULATION	
+https://api.census.gov/data/2020/dec/dhc?get=P10_001N&for=county:*&in=state:* ###RACE FOR THE POPULATION 18 YEARS AND OVER		
+https://api.census.gov/data/2020/dec/dhc?get=P10_003N&for=county:*&in=state:* ###White alone
+https://api.census.gov/data/2020/dec/dhc?get=P10_004N&for=county:*&in=state:* ###Black or African American alone
+https://api.census.gov/data/2020/dec/dhc?get=P10_005N&for=county:*&in=state:* ###American Indian and Alaska Native alone
+https://api.census.gov/data/2020/dec/dhc?get=P10_006N&for=county:*&in=state:* ###Asian alone
+https://api.census.gov/data/2020/dec/dhc?get=P10_007N&for=county:*&in=state:* ###American Indian and Alaska Native alone
+https://api.census.gov/data/2020/dec/dhc?get=P10_008N&for=county:*&in=state:* ###American Indian and Alaska Native alone
+
+https://api.census.gov/data/2020/dec/dhc?get=P10_009N&for=county:*&in=state:* ###!!Total:!!Population of two or more races:
+
+https://api.census.gov/data/2020/dec/dhc?get=P11_002N&for=county:*&in=state:* ###!!Hispanic or Latino	
+https://api.census.gov/data/2020/dec/dhc?get=P11_003N&for=county:*&in=state:* ###!!Not Hispanic or Latino:
+
