@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "geo-comparer"
+version = "0.1.0"
+description = ""
+authors = ["Mathew Lee <mwlee9@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+plotly-express = "^0.4.1"
+plotly = "5.22.0"
+nbformat = "^5.10.4"
+duckdb = "^0.10.3"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

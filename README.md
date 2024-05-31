@@ -18,4 +18,16 @@ Feature List
 * Public transportation/walkability score
 * Affordability index or rent prices
 
+TODO:
+* Convert to DBT to build intermediary Tables
+* Layer in interactive comparison mapping
+* Refactor away from ipynb?
+* Add Dagster (optional or a nice to have)
+* Refactor dependency management (poetry)
+* launch in a website/React app
+* Add in Dev bool flags throughout for testing/prod
+
+Notes
+* Longest part is api call to fips for weather
+
 Other ideas here: https://data.census.gov/
